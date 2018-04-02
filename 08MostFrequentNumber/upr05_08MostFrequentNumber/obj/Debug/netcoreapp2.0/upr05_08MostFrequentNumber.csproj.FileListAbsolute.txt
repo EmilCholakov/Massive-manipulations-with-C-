@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\bin\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.deps.json
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\bin\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.runtimeconfig.json
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\bin\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\bin\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.dll
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\bin\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.pdb
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.dll
+c:\users\емил\source\repos\upr05_08MostFrequentNumber\upr05_08MostFrequentNumber\obj\Debug\netcoreapp2.0\upr05_08MostFrequentNumber.pdb

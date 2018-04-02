@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\bin\Debug\netcoreapp2.0\upr05_11EqualSums.deps.json
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\bin\Debug\netcoreapp2.0\upr05_11EqualSums.runtimeconfig.json
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\bin\Debug\netcoreapp2.0\upr05_11EqualSums.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\bin\Debug\netcoreapp2.0\upr05_11EqualSums.dll
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\bin\Debug\netcoreapp2.0\upr05_11EqualSums.pdb
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.dll
+c:\users\емил\source\repos\upr05_11EqualSums\upr05_11EqualSums\obj\Debug\netcoreapp2.0\upr05_11EqualSums.pdb

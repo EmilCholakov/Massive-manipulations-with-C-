@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\bin\Debug\netcoreapp2.0\upr05_05CompareCharArrays.deps.json
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\bin\Debug\netcoreapp2.0\upr05_05CompareCharArrays.runtimeconfig.json
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\bin\Debug\netcoreapp2.0\upr05_05CompareCharArrays.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\bin\Debug\netcoreapp2.0\upr05_05CompareCharArrays.dll
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\bin\Debug\netcoreapp2.0\upr05_05CompareCharArrays.pdb
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.dll
+c:\users\емил\source\repos\upr05_05CompareCharArrays\upr05_05CompareCharArrays\obj\Debug\netcoreapp2.0\upr05_05CompareCharArrays.pdb

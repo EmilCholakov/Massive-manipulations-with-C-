@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\bin\Debug\netcoreapp2.0\upr05_09IndexOfLetters.deps.json
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\bin\Debug\netcoreapp2.0\upr05_09IndexOfLetters.runtimeconfig.json
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\bin\Debug\netcoreapp2.0\upr05_09IndexOfLetters.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\bin\Debug\netcoreapp2.0\upr05_09IndexOfLetters.dll
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\bin\Debug\netcoreapp2.0\upr05_09IndexOfLetters.pdb
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.dll
+c:\users\емил\source\repos\upr05_09PairsByDifference\upr05_09PairsByDifference\obj\Debug\netcoreapp2.0\upr05_09IndexOfLetters.pdb

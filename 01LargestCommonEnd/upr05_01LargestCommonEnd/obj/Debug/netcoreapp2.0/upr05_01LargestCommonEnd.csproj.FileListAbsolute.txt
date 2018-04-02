@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\bin\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.deps.json
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\bin\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.runtimeconfig.json
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\bin\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\bin\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.dll
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\bin\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.pdb
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.dll
+c:\users\емил\source\repos\upr05_01LargestCommonEnd\upr05_01LargestCommonEnd\obj\Debug\netcoreapp2.0\upr05_01LargestCommonEnd.pdb

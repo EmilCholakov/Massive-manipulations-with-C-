@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\bin\Debug\netcoreapp2.0\upr05_03FoldAndSumm.deps.json
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\bin\Debug\netcoreapp2.0\upr05_03FoldAndSumm.runtimeconfig.json
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\bin\Debug\netcoreapp2.0\upr05_03FoldAndSumm.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\bin\Debug\netcoreapp2.0\upr05_03FoldAndSumm.dll
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\bin\Debug\netcoreapp2.0\upr05_03FoldAndSumm.pdb
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.dll
+c:\users\емил\source\repos\upr05_03FoldAndSumm\upr05_03FoldAndSumm\obj\Debug\netcoreapp2.0\upr05_03FoldAndSumm.pdb

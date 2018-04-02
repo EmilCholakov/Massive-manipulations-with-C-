@@ -1,0 +1,11 @@
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\bin\Debug\netcoreapp2.0\upr05_04SieveOfErato.deps.json
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\bin\Debug\netcoreapp2.0\upr05_04SieveOfErato.runtimeconfig.json
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\bin\Debug\netcoreapp2.0\upr05_04SieveOfErato.runtimeconfig.dev.json
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\bin\Debug\netcoreapp2.0\upr05_04SieveOfErato.dll
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\bin\Debug\netcoreapp2.0\upr05_04SieveOfErato.pdb
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.csprojResolveAssemblyReference.cache
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.csproj.CoreCompileInputs.cache
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.AssemblyInfoInputs.cache
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.AssemblyInfo.cs
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.dll
+c:\users\емил\source\repos\upr05_04SieveOfErato\upr05_04SieveOfErato\obj\Debug\netcoreapp2.0\upr05_04SieveOfErato.pdb
